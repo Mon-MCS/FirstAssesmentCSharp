@@ -1,0 +1,19 @@
+#Librerias del entorno actual
+__pycache__/
+
+# Archivos de log
+*.log
+
+# Archivos compilados y binarios
+*.pyc
+*.exe
+*.dll
+*.so
+*.out
+obj/
+bin/
+
+
+# Archivos de configuración locales
+.env
+.venv
